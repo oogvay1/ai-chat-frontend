@@ -22,10 +22,11 @@ export default function ChatInput() {
     };
 
     const getUser = async () => {
+        const token = localStorage.getItem('token');
 
         const res = await fetch('http://localhost:3000/api/auth/user', {
             headers: {
-                "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTY5NTA2NTcsImV4cCI6MTc1OTU0MjY1N30.tGwuPkAIJEKOazQfSfUmBB1n2dP3uSa8_m32SECmY5A"
+                "Authorization": `Bearer ${token}`
             }
         });
 

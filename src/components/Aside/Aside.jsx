@@ -169,29 +169,6 @@ function Aside() {
 
                             <div ref={chatsRef} className="chats">
                                 <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
-                                <ChatsList name={'GSAP animation'} />
                                 <div className="div"></div>
                             </div>
                         </div>

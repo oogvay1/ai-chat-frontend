@@ -50,7 +50,7 @@ function MainChat() {
                     <div className="main-screen">
                         <div className="ul">
                         </div>
-
+                        
                         <ChatInput />
                     </div>
                 </div>
